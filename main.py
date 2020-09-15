@@ -1,2 +1,8 @@
-main.py
-a=20 b=13 print(str(a*b)+ +str(a-b))
+a = input().split()
+one=int(a[0])
+two=int(a[1])
+print(str(one*two)+" "+str(one-two))
+
+
+
+
